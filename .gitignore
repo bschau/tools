@@ -1,3 +1,17 @@
+*~
+.DS_Store
+._*
+cmd/colconv/colconv
+cmd/fnchg/fnchg
+cmd/genpwd/genpwd
+cmd/hxd/hxd
+cmd/imgsize/imgsize
+cmd/mren/mren
+cmd/remtilde/remtilde
+cmd/sauk/sauk
+cmd/waves/waves
+cmd/wi/wi
+
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -20,6 +34,4 @@
 # Go workspace file
 go.work
 go.work.sum
-
-# env file
 .env
